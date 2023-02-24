@@ -1,5 +1,15 @@
+h1 {
+  text-align: center;
+}
+
 p {
   color: red;
+}
+
+.rectangle {
+    background: rgba(0, 0, 255, .3);
+    width: 200px;
+    height: 800px;
 }
 
 .alex img {
