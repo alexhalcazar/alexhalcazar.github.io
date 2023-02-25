@@ -2,10 +2,6 @@ h1 {
   text-align: center;
 }
 
-p {
-  color: black;
-}
-
 .rectangle {
     background: rgba(20, 80, 135, 1);
     width: 350px;
