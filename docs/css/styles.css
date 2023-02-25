@@ -8,7 +8,7 @@ p {
 
 .rectangle {
     background: rgba(20, 80, 135, 1);
-    width: 300px;
+    width: 400px;
     height: 800px;
     margin-left: 50px;
 }
@@ -20,5 +20,5 @@ p {
   border-radius: 50%;
   object-fit: cover;
   margin-left: 50px;
-  margin-top: 500px;
+  margin-top: 200px;
 }
