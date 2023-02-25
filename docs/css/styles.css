@@ -7,7 +7,7 @@ p {
 }
 
 .rectangle {
-    background: rgba(0, 0, 255, .3);
+    background: rgba(0, 0, 255, 1);
     width: 200px;
     height: 800px;
 }
