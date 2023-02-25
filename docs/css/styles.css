@@ -18,9 +18,3 @@ p {
   width: 200px;
   left: 30px;
 }
-
-.rectangle {
-    background: rgba(0, 0, 255, 1);
-    width: 400px;
-    height: 800px;
-}
