@@ -7,9 +7,10 @@ p {
 }
 
 .rectangle {
-    background: rgba(0, 0, 255, 1);
+    background: rgba(20, 80, 135, 1);
     width: 200px;
     height: 800px;
+    margin-left: 50px;
 }
 
 .alex {
